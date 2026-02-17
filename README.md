@@ -1,1 +1,1 @@
-# claude_skills
+# Skills
